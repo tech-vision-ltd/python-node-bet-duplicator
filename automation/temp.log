@@ -1,0 +1,6 @@
+Partial body: {"betId": 1208391875, "stake": 5.0, "sportId": 29, "eventId": 1089377488, "betType": "MONEYLINE", "teamType": "0"}
+Body: {"betId": 1208391875, "stake": 5.0, "sportId": 29, "eventId": 1089377488, "betType": "MONEYLINE", "teamType": "0"}
+1208391875 29 1089377488 5 0
+.wait() for #sports-menu ul.sp-list li[data-id="29"] ul.mk-type li[title="Match"] timed out after 30000msec
+.wait() for #sports-menu ul.sp-list li[data-id="29"] ul.mk-type li[title="Match"] timed out after 30000msec
+.wait() for #sports-menu ul.sp-list li[data-id="29"] ul.mk-type li[title="Match"] timed out after 30000msec

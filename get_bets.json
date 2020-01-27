@@ -1,0 +1,34 @@
+{
+  'moreAvailable': False,
+  'pageSize': 1000,
+  'fromRecord': 0,
+  'toRecord': 0,
+  'straightBets': [
+    {
+      'betId': 1208120003,
+      'uniqueRequestId': '4d04bb52-f266-724b-6311-e0bc1d4c72f1',
+      'wagerNumber': 1,
+      'placedAt': '2020-01-20T08:36:34Z',
+      'betStatus': 'ACCEPTED',
+      'betType': 'MONEYLINE',
+      'win': 1.14,
+      'risk': 5.0,
+      'oddsFormat': 'DECIMAL',
+      'customerCommission': 0.0,
+      'updateSequence': 1579509394000,
+      'sportId': 12,
+      'leagueId': 196921,
+      'eventId': 1087842378,
+      'handicap': 0.0,
+      'price': 1.228,
+      'teamName': 'G2 Esports',
+      'team1': 'G2 Esports',
+      'team2': 'MAD Lions',
+      'periodNumber': 1,
+      'team1Score': 0,
+      'team2Score': 0,
+      'isLive': 'FALSE',
+      'eventStartTime': '2020-01-24T17:00:00Z'
+    }
+  ]
+}
