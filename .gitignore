@@ -1,0 +1,7 @@
+.idea
+
+__pychache__/
+venv/
+
+node_modules/
+
